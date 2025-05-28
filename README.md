@@ -6,25 +6,25 @@ Este projeto implementa um modelo de Transferência de Energia sem Fio (WET) par
 
 ✨ Funcionalidades
 
-🔌 Geração de canais de comunicação simulados (h̄) para cada dispositivo.
+ Geração de canais de comunicação simulados (h̄) para cada dispositivo.
 
-⚡ Cálculo da taxa de energia transferida (βₖ) conforme o modelo WET.
+ Cálculo da taxa de energia transferida (βₖ) conforme o modelo WET.
 
-📏 Reordenação de dispositivos por distância euclidiana.
+ Reordenação de dispositivos por distância euclidiana.
 
-🤖 Execução de algoritmos de clusterização: K-Means, DBSCAN e Agglomerative Clustering.
+ Execução de algoritmos de clusterização: K-Means, DBSCAN e Agglomerative Clustering.
 
-📊 Cálculo da métrica silhouette para avaliação da separação dos clusters.
+ Cálculo da métrica silhouette para avaliação da separação dos clusters.
 
-📈 Visualização de resultados em gráficos (clusterização e silhouette score).
+ Visualização de resultados em gráficos (clusterização e silhouette score).
 
 🛠️ Tecnologias Utilizadas
 
-🐍 Python 3.8+
+ Python 3.8+
 
-🔢 NumPy
+ NumPy
 
-📚 Pandas
+ Pandas
 
 🖼️ Matplotlib
 
