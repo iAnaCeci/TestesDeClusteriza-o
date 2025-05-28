@@ -33,4 +33,5 @@ Este projeto implementa um modelo de Transferência de Energia sem Fio (WET) par
 📊 Scikit-Learn
 
 👩‍💻 Autor: Ana Cecília Silveira Fernandes
-          Pedro Guilherme Fernandes Oliveira 
+
+   Pedro Guilherme Fernandes Oliveira 
